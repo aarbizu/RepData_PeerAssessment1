@@ -1,2 +1,2 @@
 unzip("activity.zip")
-read.csv("activity.csv")
+activityDF <- read.csv("activity.csv")
