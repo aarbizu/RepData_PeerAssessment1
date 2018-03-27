@@ -82,7 +82,7 @@ print(g)
 ![](PA1_template_files/figure-html/interval_average-1.png)<!-- -->
 
 **The five minute interval which averaged the most steps across all
-days was **
+days was 835**
 
 ## Imputing missing values
 

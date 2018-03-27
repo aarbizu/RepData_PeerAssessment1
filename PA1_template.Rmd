@@ -75,7 +75,7 @@ print(g)
 ```
 
 **The five minute interval which averaged the most steps across all
-days was `r interval_mean[interval_mean$steps == max(interval_mean$steps),1]`**
+days was `r interval_mean[interval_mean$mean.steps == max(interval_mean$mean.steps),1]`**
 
 ## Imputing missing values
 
